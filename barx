@@ -1,10 +1,10 @@
 <html>
 <head>
-    <title>doge</title>
+    <title>flashback/title>
 </head>
 <body>
 
-<video src="flashback.mp4" autoplay></video>
+<video src="flashback.mp4"autoplay></video>
 
 <style>
     body {
